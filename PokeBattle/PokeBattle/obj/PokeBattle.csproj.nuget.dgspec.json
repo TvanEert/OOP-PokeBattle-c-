@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Programming\\Jaar-2\\OOP_PokeBattle\\Pokebattle\\Pokebattle\\Pokebattle.csproj": {}
+    "D:\\Programming\\Jaar-2\\OOP_PokeBattle_c#\\PokeBattle\\PokeBattle\\PokeBattle.csproj": {}
   },
   "projects": {
-    "D:\\Programming\\Jaar-2\\OOP_PokeBattle\\Pokebattle\\Pokebattle\\Pokebattle.csproj": {
+    "D:\\Programming\\Jaar-2\\OOP_PokeBattle_c#\\PokeBattle\\PokeBattle\\PokeBattle.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Programming\\Jaar-2\\OOP_PokeBattle\\Pokebattle\\Pokebattle\\Pokebattle.csproj",
-        "projectName": "Pokebattle",
-        "projectPath": "D:\\Programming\\Jaar-2\\OOP_PokeBattle\\Pokebattle\\Pokebattle\\Pokebattle.csproj",
+        "projectUniqueName": "D:\\Programming\\Jaar-2\\OOP_PokeBattle_c#\\PokeBattle\\PokeBattle\\PokeBattle.csproj",
+        "projectName": "PokeBattle",
+        "projectPath": "D:\\Programming\\Jaar-2\\OOP_PokeBattle_c#\\PokeBattle\\PokeBattle\\PokeBattle.csproj",
         "packagesPath": "C:\\Users\\timva\\.nuget\\packages\\",
-        "outputPath": "D:\\Programming\\Jaar-2\\OOP_PokeBattle\\Pokebattle\\Pokebattle\\obj\\",
+        "outputPath": "D:\\Programming\\Jaar-2\\OOP_PokeBattle_c#\\PokeBattle\\PokeBattle\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\timva\\AppData\\Roaming\\NuGet\\NuGet.Config",

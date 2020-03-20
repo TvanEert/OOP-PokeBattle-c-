@@ -1,6 +1,7 @@
-﻿using System;
+﻿
+using System;
 
-namespace Pokebattle
+namespace PokeBattle
 {
     class Program
     {

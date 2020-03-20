@@ -6,15 +6,15 @@
   "compilationOptions": {},
   "targets": {
     ".NETCoreApp,Version=v3.1": {
-      "Pokebattle/1.0.0": {
+      "PokeBattle/1.0.0": {
         "runtime": {
-          "Pokebattle.dll": {}
+          "PokeBattle.dll": {}
         }
       }
     }
   },
   "libraries": {
-    "Pokebattle/1.0.0": {
+    "PokeBattle/1.0.0": {
       "type": "project",
       "serviceable": false,
       "sha512": ""
