@@ -1,0 +1,13 @@
+D:\Programming\Jaar-2\OOP_PokeBattle\Pokebattle\Pokebattle\bin\Debug\netcoreapp3.1\Pokebattle.exe
+D:\Programming\Jaar-2\OOP_PokeBattle\Pokebattle\Pokebattle\bin\Debug\netcoreapp3.1\Pokebattle.deps.json
+D:\Programming\Jaar-2\OOP_PokeBattle\Pokebattle\Pokebattle\bin\Debug\netcoreapp3.1\Pokebattle.runtimeconfig.json
+D:\Programming\Jaar-2\OOP_PokeBattle\Pokebattle\Pokebattle\bin\Debug\netcoreapp3.1\Pokebattle.runtimeconfig.dev.json
+D:\Programming\Jaar-2\OOP_PokeBattle\Pokebattle\Pokebattle\bin\Debug\netcoreapp3.1\Pokebattle.dll
+D:\Programming\Jaar-2\OOP_PokeBattle\Pokebattle\Pokebattle\bin\Debug\netcoreapp3.1\Pokebattle.pdb
+D:\Programming\Jaar-2\OOP_PokeBattle\Pokebattle\Pokebattle\obj\Debug\netcoreapp3.1\Pokebattle.csproj.CoreCompileInputs.cache
+D:\Programming\Jaar-2\OOP_PokeBattle\Pokebattle\Pokebattle\obj\Debug\netcoreapp3.1\Pokebattle.AssemblyInfoInputs.cache
+D:\Programming\Jaar-2\OOP_PokeBattle\Pokebattle\Pokebattle\obj\Debug\netcoreapp3.1\Pokebattle.AssemblyInfo.cs
+D:\Programming\Jaar-2\OOP_PokeBattle\Pokebattle\Pokebattle\obj\Debug\netcoreapp3.1\Pokebattle.dll
+D:\Programming\Jaar-2\OOP_PokeBattle\Pokebattle\Pokebattle\obj\Debug\netcoreapp3.1\Pokebattle.pdb
+D:\Programming\Jaar-2\OOP_PokeBattle\Pokebattle\Pokebattle\obj\Debug\netcoreapp3.1\Pokebattle.genruntimeconfig.cache
+D:\Programming\Jaar-2\OOP_PokeBattle\Pokebattle\Pokebattle\obj\Debug\netcoreapp3.1\Pokebattle.csprojAssemblyReference.cache
