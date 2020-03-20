@@ -15,6 +15,7 @@ namespace PokeBattle
         private double MultiplierWeak = 1.2;
         public string Resistance { get; set; }
         private double MultiplierRes = 0.8;
+        public List<Attack> Attacks = new List<Attack>();
 
         //Constructor
         public Pokemon(string Name, string EnergyType, int MaxHP, int HP)
@@ -25,6 +26,7 @@ namespace PokeBattle
             this.HP = HP;
             CalcWeakness();
             CalcResistance();
+            SetAttacks();
         }
 
         //Methods
@@ -68,6 +70,35 @@ namespace PokeBattle
             Console.WriteLine(HP);
             Console.WriteLine(Weakness);
             Console.WriteLine(Resistance);
+            Console.WriteLine(Attacks[0].Name);
+            Console.WriteLine(Attacks[1].Name);
+        }
+
+        public void SetAttacks()
+        {
+            Attack BlazeKick = new Attack("Blaze Kick", 85);
+            Attack FirePunch = new Attack("Fire Punch", 75);
+            Attack HydroPump = new Attack("Hydro Pump", 110);
+            Attack Waterfall = new Attack("Waterfall", 80);
+            Attack LeafBlade = new Attack("Leaf Blade", 90);
+            Attack SeedBomb = new Attack("Seed Bomb", 80);
+
+
+            switch (EnergyType)
+            {
+                case "Fire":
+                    Attacks.Add(BlazeKick);
+                    Attacks.Add(FirePunch);
+                    break;
+                case "Water":
+                    Attacks.Add(HydroPump);
+                    Attacks.Add(Waterfall);
+                    break;
+                case "Grass":
+                    Attacks.Add(LeafBlade);
+                    Attacks.Add(SeedBomb);
+                    break;
+            }
         }
     }
 }
